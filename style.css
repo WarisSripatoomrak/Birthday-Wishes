@@ -1,11 +1,12 @@
 tt {
   font-family: "Space Mono", monospace;
   color: #f2f2f2;
+  font-size: 0.6em;
 }
 
 h1 {
   font-family: "Space Mono", monospace;
-  font-size: 2.5em;
+  font-size: 2em;
   color: #ffe139;
   margin-bottom: -20px;
 }
@@ -13,7 +14,7 @@ h1 {
 h4 {
   font-family: "Space Mono", monospace;
   font-style: italic;
-  font-size: 1.3em;
+  font-size: 1em;
   color: #c8f039;
 }
 
